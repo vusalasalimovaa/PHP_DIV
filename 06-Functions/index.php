@@ -192,8 +192,8 @@ function metnYaz() {
 
 metnYaz();
 
-$metnYazIndi = function() use($metn) {
+$metnYazIndii = function() use($metn) {
     echo $metn;
 };
 
-$metnYazIndi();
+$methYazIndii();
