@@ -46,10 +46,10 @@
 
 #STRINGS
 
-$firstName = 'Vusala';
-$lastName = 'Salimova';
+// $firstName = 'Vusala';
+// $lastName = 'Salimova';
 
-$name = $firstName . ' ' . $lastName;
+// $name = $firstName . ' ' . $lastName;
 
 // echo $name . ' <br /> ';
 // echo $name;
@@ -142,3 +142,7 @@ $name = $firstName . ' ' . $lastName;
 
 // var_dump(array_key_exists('b', $array));
 // var_dump(isset($array['b']));
+
+$a = 5;
+
+echo $a;

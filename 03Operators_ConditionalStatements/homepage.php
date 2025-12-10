@@ -8,13 +8,14 @@
     <title>Document</title>
 </head>
 <body>
+
     <?php if(10 > 8): ?>
-        test
+        vusala
     <?php endif; ?>
 
     <?php
-        if ( 10 > 9 ) {
-            echo "<b>test</b>";
+        if (10 > 9) {
+            echo "<b>Vusala Salimova</b>";
         }
     ?>
 

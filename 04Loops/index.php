@@ -7,7 +7,7 @@
  * do-while
  */
 
-// $cars = ['lada', 'bmw', 'audi'];
+$cars = ['lada', 'bmw', 'audi'];
 
 // // count();
 
@@ -56,6 +56,14 @@
 
 // // echo $car;
 
+// foreach($cars as $car):
+//     echo $car;
+// endforeach;
+
+// unset($car);
+
+// echo $car;
+
 // $user = [
 //     'name' => 'John',
 //     'surname' => 'Doe'
@@ -94,9 +102,9 @@
 //     }
 // }
 
-$start = 2;
+// $start = 2;
 
-do {
-    echo "salam";
-    $start++;
-} while( $start < 3 );
+// do {
+//     echo "salam";
+//     $start++;
+// } while( $start < 3 );
